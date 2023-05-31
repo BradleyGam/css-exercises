@@ -1,0 +1,18 @@
+.main-class {
+    background-color: rgba(245, 98, 120, 0.534);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: lightgreen;
+    font-weight: bold;
+}
